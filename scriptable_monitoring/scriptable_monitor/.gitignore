@@ -18,4 +18,3 @@ Makefile
 .project
 *.cxx
 class_loader_hide_library_symbols__*
-/CMakeLists.txt
