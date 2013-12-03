@@ -10,8 +10,8 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   
-  <run_depend>mr_tools</run_depend>
-  <run_depend>mr_rqt</run_depend>
+  <run_depend>scriptable_monitor</run_depend>
+  <run_depend>scriptable_monitor_rqt</run_depend>
 
   <export>
   	<metapackage/>
