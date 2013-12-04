@@ -9,6 +9,7 @@
 #define PARAMETERS_H_
 
 #include <iostream>
+#include <inttypes.h>
 #include <map>
 #include <yaml-cpp/yaml.h>
 #include <boost/shared_ptr.hpp>
