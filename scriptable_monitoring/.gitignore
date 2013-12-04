@@ -1,5 +1,3 @@
-/src/scriptable_analyzer_rqt
-
 catkin/
 catkin_generated/
 cmake/

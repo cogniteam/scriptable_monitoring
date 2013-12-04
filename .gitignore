@@ -1,5 +1,3 @@
-/src/scriptable_analyzer
-
 catkin/
 catkin_generated/
 cmake/
@@ -18,3 +16,5 @@ Makefile
 .project
 *.cxx
 class_loader_hide_library_symbols__*
+
+/CMakeLists.txt
